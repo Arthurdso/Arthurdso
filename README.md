@@ -8,6 +8,7 @@
   <a href="https://github.com/arthurdso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthurdso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurdso&layout=compact&langs_count=7&theme=dark"/>
+    <img align="right" alt="Arthur-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/pw/AM-JKLVh6xyXit_G3eTDK9pyhayNZEEqUexrrxpY_r365mk7p9M1-Jc5FG7TXzkEcU-pCYOxJNRJUSnWZCgGmVw4f2GIODiRcRR43jislmDZvQMa2Q0IJYL6rGSfmpRhMQOdvtrLivm91evaobnNUlRYvOJCNA=s625-no?authuser=0">
 </div>
   
   <div style="display: inline_block"><br>
@@ -15,6 +16,7 @@
   <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arthur-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+    
 </div>
   
   
