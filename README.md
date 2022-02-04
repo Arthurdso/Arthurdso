@@ -8,7 +8,6 @@
   <a href="https://github.com/arthurdso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthurdso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurdso&layout=compact&langs_count=7&theme=dark"/>
-    <img align="right" alt="Arthur-pic" height="120" style="border-radius:50px;" src="https://lh3.googleusercontent.com/pw/AM-JKLVh6xyXit_G3eTDK9pyhayNZEEqUexrrxpY_r365mk7p9M1-Jc5FG7TXzkEcU-pCYOxJNRJUSnWZCgGmVw4f2GIODiRcRR43jislmDZvQMa2Q0IJYL6rGSfmpRhMQOdvtrLivm91evaobnNUlRYvOJCNA=s625-no?authuser=0">
 </div>
   
   <div style="display: inline_block"><br>
