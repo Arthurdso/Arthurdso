@@ -1,8 +1,10 @@
-### Olá! Eu sou o Arthur Oliveira, Estudande de Programação.
+👋 Olá! Meu nome é Arthur da Silva Oliveira e sou um estudante de Análise e Desenvolvimento de Sistemas. Estou em busca da minha primeira oportunidade na área de TI, com um forte interesse em programação e desenvolvimento back-end com C# .NET.
 
-- 🌱 Estudando Javascript
-- 🤔 Estou a procura de emprego
-- 😄 Pronouns: Ele/Dele
+🎓 Aqui no meu GitHub, você encontrará vários projetos que trabalhei para aprimorar minhas habilidades técnicas. Isso inclui projetos em HTML, CSS, JavaScript, TypeScript, MySQL, Oracle SQL PL-SQL, Excel, Power BI, C# e .NET.
+
+💡 Estou sempre buscando aprender e crescer como desenvolvedor. Adoro resolver problemas e estou sempre pronto para enfrentar novos desafios.
+
+🌐 Falo Português nativo e Inglês (leitura avançada, escuta e conversação intermediária).
 
 <div align="center">
   <a href="https://github.com/arthurdso">
